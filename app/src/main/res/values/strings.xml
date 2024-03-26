@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_go">Go</string>
+    <string name="summarize_label">Text to summarize</string>
+    <string name="summarize_hint">Enter text or a URL to summarize</string>
+    <string name="API_KEY">AIzaSyAoLjOKuMnP8o1c2qdDoKKNRPGAouWqVpM</string>
+
+</resources>
